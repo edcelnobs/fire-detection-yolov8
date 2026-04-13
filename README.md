@@ -3,15 +3,8 @@
 
 ## 🎥 Demo Video
 
-<p align="center">
-  <video width="700" controls>
-    <source src="demo.mp4" type="video/mp4">
-  </video>
-</p>
-
-<p align="center">
   [![Live Detection](sample.png)](demo.mp4)
-</p>
+
 
 ## 📌 Project Overview
 
