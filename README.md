@@ -1,8 +1,13 @@
 # 🔥 Live Fire & Smoke Detection using YOLOv8
 
-<video width="600" controls>
-  <source src="demo.mp4" type="mp4">
-</video>
+## 🎥 Demo Video
+
+<p align="center">
+  <video width="700" controls>
+    <source src="demo.mp4" type="video/mp4">
+  </video>
+</p>
+
 ## 📌 Project Overview
 
 This project is a **real-time fire and smoke detection system** powered by a YOLOv8 deep learning model. It utilizes a webcam feed to perform **frame-by-frame object detection** and visually highlights detected fire or smoke regions.
