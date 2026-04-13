@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="demo.mp4">▶️ Download / Watch Video</a>
+  [![Live Detection](sample.png)](demo.mp4)
 </p>
 
 ## 📌 Project Overview
