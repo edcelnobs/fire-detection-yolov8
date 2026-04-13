@@ -1,5 +1,6 @@
 # 🔥 Live Fire & Smoke Detection using YOLOv8
 
+
 ## 🎥 Demo Video
 
 <p align="center">
@@ -8,7 +9,9 @@
   </video>
 </p>
 
-[▶️ Watch Demo](demo.mp4)
+<p align="center">
+  <a href="demo.mp4">▶️ Download / Watch Video</a>
+</p>
 
 ## 📌 Project Overview
 
