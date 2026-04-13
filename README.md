@@ -5,6 +5,11 @@
 
   [![Live Detection](sample.png)](demo.mp4)
 
+<p align="center">
+  <video width="700" controls>
+    <source src="demo.mp4" type="video/mp4">
+  </video>
+</p>
 
 ## 📌 Project Overview
 
