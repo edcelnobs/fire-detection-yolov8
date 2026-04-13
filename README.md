@@ -8,6 +8,8 @@
   </video>
 </p>
 
+[▶️ Watch Demo](demo.mp4)
+
 ## 📌 Project Overview
 
 This project is a **real-time fire and smoke detection system** powered by a YOLOv8 deep learning model. It utilizes a webcam feed to perform **frame-by-frame object detection** and visually highlights detected fire or smoke regions.
