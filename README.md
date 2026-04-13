@@ -1,7 +1,7 @@
 # 🔥 Live Fire & Smoke Detection using YOLOv8
 
 <video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="mp4">
 </video>
 ## 📌 Project Overview
 
