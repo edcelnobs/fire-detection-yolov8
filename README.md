@@ -3,7 +3,7 @@
 
 ## 🎥 Demo Video
 
-  [![Live Detection](sample.png)](demo.mp4)
+  [![Live Detection](sample2.png)](demo.mp4)
 
 <p align="center">
   <video width="700" controls>
