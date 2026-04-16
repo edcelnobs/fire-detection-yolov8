@@ -56,7 +56,7 @@ fire-smoke-detection/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/fire-smoke-detection.git
+git clone https://github.com/edcelnobs/fire-smoke-detection.git
 cd fire-smoke-detection
 ```
 
